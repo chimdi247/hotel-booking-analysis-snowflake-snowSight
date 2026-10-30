@@ -1,3 +1,5 @@
+--SnowSight (Dashboard is now depricated- starting June 22, 2026)
+
 --KPI - AVG Booking Value
 SELECT AVG(total_amount) as avg_booking_value
 FROM GOLD_BOOKING_CLEAN;
